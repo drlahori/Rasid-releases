@@ -2,7 +2,7 @@
 
 _Last updated: 26 November 2026_
 
-Rasid is an order and invoice app for pharmacy distribution, made by Rasid (Lahore, Pakistan). This policy explains what the app does with information.
+Rasid is an order and invoice app for pharmacy distribution, made by Rasid. This policy explains what the app does with information.
 
 ## Your business data stays on your phone
 Your customers, items, prices, orders, invoices, estimates and payments are stored **on your own phone**. We do not upload them to our servers and we cannot see them.
@@ -23,7 +23,7 @@ Rasid uses notifications for app updates and the optional evening summary. Updat
 If you send a message from **Contact support**, we receive the message and your account details so we can reply.
 
 ## Your choices
-You can export, back up, restore or delete your data from inside the app at any time. To ask about your account information or have it removed, email **rasidapppk@gmail.com**.
+You can export, back up, restore or delete your data from inside the app at any time. To ask about your account information or have it removed, use **Contact support** in the app, or message us on GitHub (below).
 
 ## Contact
-Rasid · Lahore, Pakistan · rasidapppk@gmail.com
+Message us on GitHub: [github.com/drlahori](https://github.com/drlahori) — or use **Contact support** inside the app.
