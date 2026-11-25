@@ -12,6 +12,6 @@
 
 **Privacy policy:** [PRIVACY.md](https://github.com/drlahori/Rasid-releases/blob/main/PRIVACY.md)
 
-**Contact:** message us on GitHub — [github.com/drlahori](https://github.com/drlahori), or use **Contact support** inside the app.
+**Contact:** [send us a message](https://script.google.com/macros/s/AKfycbxPnzn2QZ9fppd7v5-dLoeLRSO22gKhkuXPOq5IPfIAzmjezei2cke_qdYJCwicjShh/exec?page=contact) — or use **Contact support** inside the app.
 
 © 2026 Rasid. All rights reserved.
