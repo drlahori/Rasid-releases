@@ -23,7 +23,7 @@ Rasid uses notifications for app updates and the optional evening summary. Updat
 If you send a message from **Contact support**, we receive the message and your account details so we can reply.
 
 ## Your choices
-You can export, back up, restore or delete your data from inside the app at any time. To ask about your account information or have it removed, use **Contact support** in the app, or our [contact form](https://script.google.com/macros/s/AKfycbxPnzn2QZ9fppd7v5-dLoeLRSO22gKhkuXPOq5IPfIAzmjezei2cke_qdYJCwicjShh/exec?page=contact).
+You can export, back up, restore or delete your data from inside the app at any time. To ask about your account information or have it removed, use **Contact support** in the app, or our [contact form](https://script.google.com/macros/s/AKfycbzMRVxW7mNy5lU68jvhXKgho9he6-zHO0Tzm7YIV3UR3txXlW4StmF_26DvsSq6mvT2/exec).
 
 ## Contact
-Send us a message with our [contact form](https://script.google.com/macros/s/AKfycbxPnzn2QZ9fppd7v5-dLoeLRSO22gKhkuXPOq5IPfIAzmjezei2cke_qdYJCwicjShh/exec?page=contact) — or use **Contact support** inside the app.
+Send us a message with our [contact form](https://script.google.com/macros/s/AKfycbzMRVxW7mNy5lU68jvhXKgho9he6-zHO0Tzm7YIV3UR3txXlW4StmF_26DvsSq6mvT2/exec) — or use **Contact support** inside the app.
